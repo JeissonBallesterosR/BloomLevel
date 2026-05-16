@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 2050e9d6cb6b78847b357396f8c37e83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imagenRosa: {fileID: 4474249865768959352, guid: 5f68224fb1df31943927c51b762d52e9, type: 3}
+  - spriteRosaCerrada: {fileID: 3251096324115070061, guid: cdb0f0c51188b414898e7a466c20c1fd, type: 3}
+  - spriteRosaAbierta: {fileID: -3360473427408983930, guid: 39a00c1dc4492f644b053ee9f8b6641c, type: 3}
+  - textoPedido: {instanceID: 0}
+  - textoPuntaje: {instanceID: 0}
+  - textoTiempo: {instanceID: 0}
+  - textoProgreso: {instanceID: 0}
+  - textoResultado: {instanceID: 0}
+  - textoAviso1800: {instanceID: 0}
+  - panelLaminas: {instanceID: 0}
+  - btnTransparente: {instanceID: 0}
+  - btnGolden: {instanceID: 0}
+  - btnBenchmark: {instanceID: 0}
+  - btn1800: {instanceID: 0}
+  - btnBonchar: {instanceID: 0}
+  - Contador_Bulk40: {instanceID: 0}
+  - Contador_Bulk50: {instanceID: 0}
+  - Contador_Bulk60: {instanceID: 0}
+  - Contador_Bouquet: {instanceID: 0}
+  - Contador_Errores: {instanceID: 0}
+  - btnSalir: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
